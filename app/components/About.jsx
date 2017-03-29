@@ -6,7 +6,7 @@ var About = (props) => {
     return(
     <div>
        <h1 className="text-center">About</h1>
-        <p>This is a weather application build on React. Built on learning purpuses.</p>
+        <p>This is a weather application build on React. Built on learning purposes.</p>
         <p>
             Here are some of the tools I used:
         </p>
