@@ -19,7 +19,6 @@ var About = (props) => {
             </li>
         </ul>
     </div>
-    </div>
        
         )
 };
