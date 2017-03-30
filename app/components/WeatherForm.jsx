@@ -1,6 +1,6 @@
 var React = require('react');
 
-var WeatherBox = React.createClass({
+var WeatherForm = React.createClass({
   onFormSubmit: function (e) {
     e.preventDefault();
 
@@ -23,4 +23,4 @@ var WeatherBox = React.createClass({
   }
 });
 
-module.exports = WeatherBox;
+module.exports = WeatherForm;
